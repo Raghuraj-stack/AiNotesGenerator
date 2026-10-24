@@ -1,8 +1,8 @@
 import { useRef, useState } from "react";
 import html2pdf from "html2pdf.js";
-import MarkdownRenderer from "./MarkdownRenderer";
-import MermaidChart from "./MermaidChart";
-import RechartSetUp from "./RechartSetUp";
+import MarkdownRenderer from "./Markdownrenderer";
+import MermaidChart from "./Mermaidchart";
+import RechartSetUp from "./Rechartsetup";
 import { downloadPdf } from "../services/api";
 
 const BADGE = {
