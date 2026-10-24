@@ -9,7 +9,7 @@ import {useDispatch, useSelector} from "react-redux"
 import History from './pages/History.jsx'
 import Notes from './pages/Notes.jsx'
 import Pricing from './pages/Pricing.jsx'
-export const serverUrl = "http://localhost:8000"
+export const serverUrl = "https://server-ainotesgenerator.onrender.com"
 import PaymentSuccess from './pages/PaymentSuccess.jsx'
 import PaymentFailed from './pages/PaymentFailed.jsx'
 function App() {
