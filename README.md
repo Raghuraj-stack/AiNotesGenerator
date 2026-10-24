@@ -2,6 +2,9 @@
 
 **AI-powered, exam-oriented notes and quick revision, generated in seconds.**
 
+
+![App preview](docs/images/slideshow.gif)
+
 Enter a topic, your class or level, and your exam type. ExamNotes AI returns priority-ranked sub topics, detailed notes, revision points, likely exam questions, and optional flowcharts and charts. You can download everything as a PDF and revisit your saved notes any time.
 
 ![React](https://img.shields.io/badge/React-Vite-61DAFB?logo=react&logoColor=white)
@@ -60,20 +63,6 @@ Enter a topic, your class or level, and your exam type. ExamNotes AI returns pri
 - Secure login with JWT stored in HTTP-only cookies.
 - A **credit system**: each generation uses credits, and users can buy more.
 - 💳 **Stripe Checkout** with a webhook that adds credits only after a confirmed payment.
-
----
-
-## 🖼️ Screenshots
-
-> Add your screenshots to a `docs/` folder and update the paths below.
-
-| Home / Generator | Generated Notes |
-|---|---|
-| ![Generator](docs/generator.png) | ![Notes](docs/notes.png) |
-
-| History | Pricing |
-|---|---|
-| ![History](docs/history.png) | ![Pricing](docs/pricing.png) |
 
 ---
 
