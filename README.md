@@ -3,7 +3,7 @@
 **AI-powered, exam-oriented notes and quick revision, generated in seconds.**
 
 
-![App preview](docs/image/slideshow.gif)
+![App preview](image/slideshow.gif)
 
 Enter a topic, your class or level, and your exam type. ExamNotes AI returns priority-ranked sub topics, detailed notes, revision points, likely exam questions, and optional flowcharts and charts. You can download everything as a PDF and revisit your saved notes any time.
 
